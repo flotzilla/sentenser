@@ -1,4 +1,7 @@
-## README
+## Sentenser
+
+Simple spring boot application using StanfordCoreNLP library 
+
 
 build project
 `./gradlew assemble`
